@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hi, Welcome to Git"
+echo "Hi, Welcome to GitHub"
